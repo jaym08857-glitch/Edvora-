@@ -1,0 +1,6 @@
+{
+  "name": "Edvora",
+  "description": "The AI Operating System for School Transportation. Enterprise SaaS platform with isolated school workspaces, role-based access, and live fleet telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
